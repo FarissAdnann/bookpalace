@@ -70,7 +70,7 @@
     </tr>
     <tr>
         <td>hargaBuku</td>
-        <td>float(8)</td>
+        <td>int(10)</td>
         <td></td>
     </tr>
     </table>
@@ -100,7 +100,7 @@
     </tr>
     <tr>
         <td>jumlahBayaran</td>
-        <td>float(8)</td>
+        <td>int(10)</td>
         <td></td>
     </tr>
     </table>
@@ -131,7 +131,7 @@
     </tr>
     <tr>
         <td>namapenuh</td>
-        <td>text</td>
+        <td>varchar(70)</td>
         <td></td>
     </tr>
     <tr>
